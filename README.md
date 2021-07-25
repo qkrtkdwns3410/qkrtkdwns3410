@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrtkdwns3410&&show_icons=true&theme=dark)
+<img src="https://img.shields.io/badge/#000000?style=flat-square&logo=logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/#F7DF1E?style=flat-square&logo=logo=JavaScript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/#000000?style=flat-square&logo=logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/#000000?style=flat-square&logo=logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/#000000?style=flat-square&logo=logo=Java&logoColor=white"/></a>&nbsp
