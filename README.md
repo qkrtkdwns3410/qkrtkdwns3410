@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrtkdwns3410)](https://solved.ac/qkrtkdwns3410/)
 <br/>
-[![LeetCode Profile](https://leetcard.jacoblin.cool/user1957N?theme=light&font=DotGothic16)]
+![Leetcode Stats](https://leetcard.jacoblin.cool/user1957N?theme=light&font=DotGothic16&ext=activity)
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=&logoColor=white"/></a>
