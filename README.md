@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[**CS 정리중**]
+[**CS 정리중**]  
 https://iodized-bassoon-8e3.notion.site/CS-ae4307958a69476f9d5e07f1c156b140
 
 ---
-[**모던 자바 인 액션 정리**]
+[**모던 자바 인 액션 정리**]  
 https://github.com/qkrtkdwns3410/ModernJavaInAction
 
 ---
