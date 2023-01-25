@@ -4,6 +4,10 @@
 https://iodized-bassoon-8e3.notion.site/CS-ae4307958a69476f9d5e07f1c156b140
 
 ---
+[**모던 자바 인 액션 정리**]
+https://github.com/qkrtkdwns3410/ModernJavaInAction
+
+---
 
 [![qkrtkdwns3410's github stats](https://github-readme-stats.vercel.app/api?username=qkrtkdwns3410&show_icons=true&theme=dracula)](https://github.com/qkrtkdwns3410/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrtkdwns3410&layout=compact&theme=dracula)](https://github.com/qkrtkdwns3410)
 <br/>
