@@ -13,8 +13,7 @@ https://github.com/qkrtkdwns3410/ModernJavaInAction
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrtkdwns3410)](https://solved.ac/qkrtkdwns3410/)
 <br/>
-[![](https://leetcard.jacoblin.cool/user1957N?ext=activity)](https://leetcard.jacoblin.cool/user1957N?theme=unicorn&font=Yomogi&ext=activity)
-<br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
