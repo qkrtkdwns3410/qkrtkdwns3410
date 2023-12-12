@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ### [**블로그에서 공부내역 보고 가세요**]  
-[![DALL·E 2023-12-12 19 29 40 - Design a casual-style badge with a bright orange background  The badge should have a relaxed and friendly aesthetic, featuring the word 'TISTORY' in a](https://github.com/qkrtkdwns3410/qkrtkdwns3410/assets/80584060/3be4156d-72fb-4dad-9d0b-9ea2ae7b4174)
-](https://oth3410.tistory.com/)
+<a href="https://oth3410.tistory.com" target="_blank">
+    <img src="https://github.com/qkrtkdwns3410/qkrtkdwns3410/assets/80584060/3be4156d-72fb-4dad-9d0b-9ea2ae7b4174" alt="TISTORY">
+</a>
 
 
 ---
