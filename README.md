@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[**블로그 공부 + 리팩토링 내역**]  
-https://oth3410.tistory.com/
+### [**블로그 공부 + 리팩토링 내역**]  
+[![image](https://github.com/qkrtkdwns3410/qkrtkdwns3410/assets/80584060/28126245-0cdf-402f-9ffa-7795bbccf343)](https://oth3410.tistory.com/)
+
 
 ---
 
