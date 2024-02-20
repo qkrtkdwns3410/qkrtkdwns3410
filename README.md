@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 읽으면 좋은 게시물
-1. https://medium.com/sjk5766/lombok-%EB%8B%A8%EC%A0%90%EA%B3%BC-%EC%8B%A4%EB%AC%B4-%EC%82%AC%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-bae7f0c0d056
+1. Lombok 단점과 실무 사용에 대한 생각[https://medium.com/sjk5766/lombok-%EB%8B%A8%EC%A0%90%EA%B3%BC-%EC%8B%A4%EB%AC%B4-%EC%82%AC%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-bae7f0c0d056]
 
 ### [**블로그에서 공부내역 보고 가세요**]  
 <a href="https://oth3410.tistory.com" target="_blank">
