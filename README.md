@@ -5,7 +5,7 @@
 
 ### [**블로그에서 공부내역 보고 가세요**]  
 - ex 블로그 : <a href="https://oth3410.tistory.com" target="_blank">티스토리</a>
-- 이사한 블로그 : <a href="https://qkrtkdwns3410.github.io" target="_blank">깃허브 블로그 ☕</a>
+- 이사한 블로그 : <a href="[https://qkrtkdwns3410.github.io](https://velog.io/@qkrtkdwns3410/posts)" target="_blank">velog ☕</a>
 
 
 ---
