@@ -6,6 +6,7 @@
 ### [**블로그에서 공부내역 보고 가세요**]  
 - ex 블로그 : <a href="https://oth3410.tistory.com" target="_blank">티스토리</a>
 - 이사한 블로그 : <a href="https://velog.io/@qkrtkdwns3410/posts" target="_blank">velog ☕</a>
+- 또 이사한 블로그 : <a href="https://until.blog/@qkrtkdwns3410" target="_blank">until ☕</a>
 
 
 ---
