@@ -10,7 +10,7 @@
 
 ### Certification
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="23fa29ed-4c59-4442-b124-f7d20c11cc91" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/a0292229-17df-4dd4-9743-87a9a8c6f627)
 
 ---
 
