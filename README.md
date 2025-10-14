@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <br/></p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkrtkdwns3410&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![views](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fqkrtkdwns3410?color=green&label=views&size=small)](https://myhits.vercel.app)
 
 <div align="center">
     
