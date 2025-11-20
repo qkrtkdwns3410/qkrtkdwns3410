@@ -1,14 +1,22 @@
 ### Hi there 👋
 
-### 읽으면 좋은 게시물
+## 읽으면 좋은 게시물
 1. <a href="https://medium.com/sjk5766/lombok-%EB%8B%A8%EC%A0%90%EA%B3%BC-%EC%8B%A4%EB%AC%B4-%EC%82%AC%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-bae7f0c0d056">롬복 단점과 실무에서의 사용</a>
 
-### [**블로그에서 공부내역 보고 가세요**]  
+## [**블로그에서 공부내역 보고 가세요**]  
 - ex 블로그 : <a href="https://oth3410.tistory.com" target="_blank">티스토리</a>
 - 이사한 블로그 : <a href="https://velog.io/@qkrtkdwns3410/posts" target="_blank">velog ☕</a>
 - 또 이사한 블로그 : <a href="https://until.blog/@qkrtkdwns3410" target="_blank">until ☕</a>
 
-### Certification
+## 오픈소스 뉴비 여정
+### PR
+- https://github.com/OpenFeign/feign/pull/3122
+    - openfeign 라이브러리 Charsets.forName → StandardCharsets 변경 PR
+### Issue
+- https://github.com/spring-projects/spring-framework/issues/35836
+    -  spring f/w deprecated 된 PropertiesBeanDefinitionReader 에 대한 @see 주석 제거
+
+## Certification
 
 ![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/a0292229-17df-4dd4-9743-87a9a8c6f627)
 
@@ -70,4 +78,3 @@
   ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrtkdwns3410)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-  
