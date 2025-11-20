@@ -11,10 +11,9 @@
 ## 오픈소스 뉴비 여정
 ### PR
 - https://github.com/OpenFeign/feign/pull/3122
-    - openfeign 라이브러리 Charsets.forName → StandardCharsets 변경 PR
+
 ### Issue
 - https://github.com/spring-projects/spring-framework/issues/35836
-    -  spring f/w deprecated 된 PropertiesBeanDefinitionReader 에 대한 @see 주석 제거
 
 ## Certification
 
