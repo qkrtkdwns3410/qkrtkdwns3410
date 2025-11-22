@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 블로그 글
-1. <a href="[https://medium.com/sjk5766/lombok-%EB%8B%A8%EC%A0%90%EA%B3%BC-%EC%8B%A4%EB%AC%B4-%EC%82%AC%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-bae7f0c0d056](https://until.blog/@qkrtkdwns3410/openfeign-vs-webclient-%EC%84%B1%EB%8A%A5-%EB%B0%8F-%EC%84%A4%EC%A0%95-%EB%B9%84%EA%B5%90)">OpenFeign vs WebClient 성능 및 설정 비교</a>
+1. <a href="https://until.blog/@qkrtkdwns3410/openfeign-vs-webclient-%EC%84%B1%EB%8A%A5-%EB%B0%8F-%EC%84%A4%EC%A0%95-%EB%B9%84%EA%B5%90">OpenFeign vs WebClient 성능 및 설정 비교</a>
 2. <a href="https://until.blog/@qkrtkdwns3410/%EC%8B%A4%ED%8C%A8%EB%8A%94-%EB%82%98%EC%B9%A8%EB%B0%98%EC%9D%B4%EB%8B%A4">실패는 나침반이다 후기</a>
 
 ## [**블로그에서 공부내역 보고 가세요**]  
