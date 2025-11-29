@@ -15,6 +15,7 @@
 
 ### Issue
 - https://github.com/spring-projects/spring-framework/issues/35836
+- https://github.com/spring-projects/spring-data-jpa/issues/4107 (기여는 아니고 재밌는 이슈인듯)
 
 ## Certification
 
