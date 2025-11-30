@@ -11,11 +11,13 @@
 
 ## 오픈소스 뉴비 여정
 ### PR
-- https://github.com/OpenFeign/feign/pull/3122
+- https://github.com/OpenFeign/feign/pull/3122 [반영]
+- https://github.com/spring-projects/spring-data-jpa/pull/4108 [제안]
+- https://github.com/spring-projects/spring-data-jpa/pull/4109 [제안]
 
 ### Issue
-- https://github.com/spring-projects/spring-framework/issues/35836
-- https://github.com/spring-projects/spring-data-jpa/issues/4107 (기여는 아니고 재밌는 이슈인듯)
+- https://github.com/spring-projects/spring-framework/issues/35836 [반영]
+- https://github.com/spring-projects/spring-data-jpa/issues/4107 [공식 답변이 궁금]
 
 ## Certification
 
