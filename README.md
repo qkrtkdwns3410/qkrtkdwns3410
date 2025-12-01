@@ -12,8 +12,6 @@
 ## 🚀 오픈소스 기여 여정 (Newbie Journey)
 ### PR (Pull Request)
 - https://github.com/OpenFeign/feign/pull/3122 **[반영 완료]**
-- https://github.com/spring-projects/spring-data-jpa/pull/4108 **[제안]**
-- https://github.com/spring-projects/spring-data-jpa/pull/4109 **[제안]**
 
 ### Issue
 - https://github.com/spring-projects/spring-framework/issues/35836 **[반영 완료]**
