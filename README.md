@@ -21,8 +21,8 @@
 - https://github.com/spring-projects/spring-framework/issues/35836 **[반영 완료]**
 - https://github.com/spring-projects/spring-data-relational/issues/2282 **[반영 완료]**
 - https://github.com/spring-projects/spring-data-jpa/issues/4107 **[한 소리 들음]**
-- [aws/aws-advanced-jdbc-wrapper #2011](https://github.com/aws/aws-advanced-jdbc-wrapper/issues/2011) — Blue/Green 전환 전 readiness 로그 추가 제안 **[논의 중]**
-- [aws/aws-advanced-jdbc-wrapper #1996](https://github.com/aws/aws-advanced-jdbc-wrapper/issues/1996) — `latestStatus` 변수명 개선 제안 **[논의 중]**
+- [aws/aws-advanced-jdbc-wrapper #2011](https://github.com/aws/aws-advanced-jdbc-wrapper/issues/2011) — Blue/Green 전환 전 readiness 로그 추가 제안 → [PR #2032에서 구현](https://github.com/aws/aws-advanced-jdbc-wrapper/pull/2032) **[main 반영 완료]**
+- [aws/aws-advanced-jdbc-wrapper #1996](https://github.com/aws/aws-advanced-jdbc-wrapper/issues/1996) — `latestStatus` 변수명 개선 제안 → [PR #2032에서 구현](https://github.com/aws/aws-advanced-jdbc-wrapper/pull/2032) **[main 반영 완료]**
 
 ## 🏆 Certification
 
