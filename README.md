@@ -10,6 +10,10 @@
 - Until (현재) : <a href="https://until.blog/@qkrtkdwns3410" target="_blank">until ☕</a>
 
 ## 🚀 오픈소스 기여 여정 (Newbie Journey)
+
+[![Merged OSS PRs](https://img.shields.io/github/issues-search?query=author%3Aqkrtkdwns3410%20is%3Apr%20is%3Amerged%20-user%3Aqkrtkdwns3410&label=Merged%20OSS%20PRs&style=flat-square&logo=github&color=2ea44f)](https://github.com/pulls?q=author%3Aqkrtkdwns3410+is%3Apr+is%3Amerged+-user%3Aqkrtkdwns3410)
+[![OSS Issues](https://img.shields.io/github/issues-search?query=author%3Aqkrtkdwns3410%20is%3Aissue%20-user%3Aqkrtkdwns3410&label=OSS%20Issues&style=flat-square&logo=github&color=8250df)](https://github.com/issues?q=author%3Aqkrtkdwns3410+is%3Aissue+-user%3Aqkrtkdwns3410)
+
 ### PR (Pull Request)
 - https://github.com/OpenFeign/feign/pull/3122 **[반영 완료]**
 
