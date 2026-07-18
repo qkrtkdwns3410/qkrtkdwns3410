@@ -28,12 +28,20 @@
 
 ## 📊 GitHub Stats
 
-[![qkrtkdwns3410's github stats](https://github-readme-stats.vercel.app/api?username=qkrtkdwns3410&show_icons=true&theme=dracula)](https://github.com/qkrtkdwns3410/github-readme-stats) 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qkrtkdwns3410&theme=dracula" alt="GitHub profile summary"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrtkdwns3410&layout=compact&theme=dracula)](https://github.com/qkrtkdwns3410)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qkrtkdwns3410&theme=dracula" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qkrtkdwns3410&theme=dracula" alt="Top languages by repository"/>
+</p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrtkdwns3410)](https://solved.ac/qkrtkdwns3410/)
-<br/>
+<p align="center">
+  <a href="https://solved.ac/qkrtkdwns3410/">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrtkdwns3410" alt="Solved.ac Profile"/>
+  </a>
+</p>
 
 ## 💻 Tech Stacks
 
@@ -41,7 +49,7 @@
     
   <div>
     <h4>BACK-END & Language</h4>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
